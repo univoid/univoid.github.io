@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hello | IN VOID WE TRUST]]></title>
+  <link href="http://univoid.github.io/blog/categories/hello/atom.xml" rel="self"/>
+  <link href="http://univoid.github.io/"/>
+  <updated>2015-05-08T17:19:40+09:00</updated>
+  <id>http://univoid.github.io/</id>
+  <author>
+    <name><![CDATA[UniVoid]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://univoid.github.io/blog/2015/05/08/hello-world/"/>
+    <updated>2015-05-08T16:01:25+09:00</updated>
+    <id>http://univoid.github.io/blog/2015/05/08/hello-world</id>
+    <content type="html"><![CDATA[<p>Hi</p>
+
+<p>a</p>
+]]></content>
+  </entry>
+  
+</feed>
