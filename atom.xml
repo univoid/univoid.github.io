@@ -4,7 +4,7 @@
   <title><![CDATA[IN VOID WE TRUST]]></title>
   <link href="http://univoid.github.io/atom.xml" rel="self"/>
   <link href="http://univoid.github.io/"/>
-  <updated>2015-05-08T17:50:08+09:00</updated>
+  <updated>2015-05-08T21:45:06+09:00</updated>
   <id>http://univoid.github.io/</id>
   <author>
     <name><![CDATA[UniVoid]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[fixed-date]]></title>
+    <link href="http://univoid.github.io/blog/2015/05/08/fixed-date/"/>
+    <updated>2015-05-08T21:44:06+09:00</updated>
+    <id>http://univoid.github.io/blog/2015/05/08/fixed-date</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
