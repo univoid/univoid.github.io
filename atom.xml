@@ -4,7 +4,7 @@
   <title><![CDATA[IN VOID WE TRUST]]></title>
   <link href="http://univoid.github.io/atom.xml" rel="self"/>
   <link href="http://univoid.github.io/"/>
-  <updated>2015-05-08T17:40:47+09:00</updated>
+  <updated>2015-05-08T17:50:08+09:00</updated>
   <id>http://univoid.github.io/</id>
   <author>
     <name><![CDATA[UniVoid]]></name>
@@ -24,8 +24,19 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://univoid.github.io/blog/2015/05/08/hello-world-C/"/>
+    <link href="http://univoid.github.io/blog/2015/05/08/hello-world/"/>
     <updated>2015-05-08T16:01:25+09:00</updated>
+    <id>http://univoid.github.io/blog/2015/05/08/hello-world</id>
+    <content type="html"><![CDATA[<p>Hi</p>
+
+<p>a</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://univoid.github.io/blog/2015/05/08/hello-world-C/"/>
+    <updated>2015-05-08T00:00:00+09:00</updated>
     <id>http://univoid.github.io/blog/2015/05/08/hello-world-C</id>
     <content type="html"><![CDATA[<h3>欢迎</h3>
 
@@ -47,17 +58,6 @@
 每天写作需要你定期冒出新的灵感，从而迫使你去思考一个很棘手的问题：去哪儿找灵感？其实灵感无处不在！在你和他人的闲聊里，你日常生活的试验里，在你看的一篇新闻里，在最新的商业周刊、电影、音乐和小说里。当你定期写作的时候，你才会睁大双眼注意它们。
 在网上定期写作能帮你建立一批忠实的读者群体，他们关注你分享的东西以及你能够提供给他们的帮助。这对于商业活动，或是正在职场打拼的人，亦或是想要寻找与自己志同道合的人都大有裨益。
 这仅仅是个开始。略为讽刺的是，定期写作这件事的全部好处无法完全用文字表达清楚，你必须亲自体验以后才会感受到。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://univoid.github.io/blog/2015/05/08/hello-world/"/>
-    <updated>2015-05-08T16:01:25+09:00</updated>
-    <id>http://univoid.github.io/blog/2015/05/08/hello-world</id>
-    <content type="html"><![CDATA[<p>Hi</p>
-
-<p>a</p>
 ]]></content>
   </entry>
   
