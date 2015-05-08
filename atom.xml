@@ -4,7 +4,7 @@
   <title><![CDATA[IN VOID WE TRUST]]></title>
   <link href="http://univoid.github.io/atom.xml" rel="self"/>
   <link href="http://univoid.github.io/"/>
-  <updated>2015-05-08T22:34:13+09:00</updated>
+  <updated>2015-05-08T22:38:09+09:00</updated>
   <id>http://univoid.github.io/</id>
   <author>
     <name><![CDATA[UniVoid]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[fixed-date]]></title>
+    <title type="html"><![CDATA[Fixed-date]]></title>
     <link href="http://univoid.github.io/blog/2015/05/08/fixed-date/"/>
     <updated>2015-05-08T21:44:06+09:00</updated>
     <id>http://univoid.github.io/blog/2015/05/08/fixed-date</id>
